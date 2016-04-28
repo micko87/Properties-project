@@ -1,5 +1,5 @@
 ## Properties-project
->>>>>>> java-project
+
 ### April 27, 2016
 
 A Java project structure which uses a properties file.
