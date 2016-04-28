@@ -1,13 +1,13 @@
-## Advanced-project
+## Properties-project
+>>>>>>> java-project
+### April 27, 2016
 
-### April 20, 2016
+A Java project structure which uses a properties file.
 
-Advanced project for core working dir
-
-Created a branch called java project
-
-* git 
+* Git 
 * Java 7
 * Maven
+* Junit
+*Properties 
 
 [Mikias Ayalew](http://sqasolution.com)
