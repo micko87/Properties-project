@@ -1,4 +1,4 @@
-## Java-project
+## Properties-project
 
 ### April 27, 2016
 
