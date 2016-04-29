@@ -8,6 +8,6 @@ A Java project structure which uses a properties file.
 * Java 7
 * Maven
 * Junit
-*Properties 
+* Properties 
 
 [Mikias Ayalew](http://sqasolution.com)
